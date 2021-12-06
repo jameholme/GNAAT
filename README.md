@@ -1,7 +1,10 @@
 # GNAAT  
 GreyNoise AWS ACL Tool (GNAAT) pronounced /ˈnæt/.  
-GNAAT is a very simple tool that downloads VPC Flow Logs from an AWS S3 Bucket and checks the IPs within against GreyNoise's IP tags.  
-GNAAT checks for malicious IPs and then creates AWS ACLs based on the findings.  
+GNAAT started out as a capstone project for school.  
+It is a very simple tool that:  
+1. Downloads VPC Flow Logs from a S3 Bucket
+2. Checks the IPs against GreyNoise's IP classification tags
+3. Creates AWS ACLs based on IPs tagged as Malicious
   
 ## To-do:
 * Start using Boto3 like a normal person
