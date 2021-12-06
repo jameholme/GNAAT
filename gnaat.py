@@ -1,5 +1,5 @@
 # GNAAT
-# By:       James Holmes
+# By: James Holmes
 
 import os
 import datetime
