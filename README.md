@@ -8,6 +8,7 @@ It is a very simple tool that:
   
 *Is it really **that** useful to create ACLs in AWS?*  
 Some would say no, that it's *"optional"*, but I say **yes**, because it adds an additional layer of security at the perimeter of your AWS environment...  
+  
 *Do you have to use GreyNoise???*  
 If you're using this tool, yeah, but even if you aren't, you should because GreyNoise is good people.
   
