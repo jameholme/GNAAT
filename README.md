@@ -19,3 +19,4 @@ It is a very simple tool that:
 * If I can't manage to start using Boto3 like a normal person, start using Subprocess instead of OS.system???
 * Maybe a setup file that takes in specific values required for this to work (VPC ID, ACL ID, S3 Bucket, GN API key, etc.)
 * Make the Python not total garbage.
+* Add an IAM Policy for people to use for their EC2 Role
