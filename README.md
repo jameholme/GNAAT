@@ -28,4 +28,3 @@ If you're using this tool, yes, but even if you aren't, you should because GreyN
 * Maybe a setup file that takes in specific values required for this to work (VPC ID, ACL ID, S3 Bucket, GN API key, etc.)
 * Make the Python not total garbage.
 * Add an IAM Policy for people to use for their EC2 Role.
-* Add more logs
