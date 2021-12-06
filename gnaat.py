@@ -1,6 +1,5 @@
+# GNAAT
 # By:       James Holmes
-# Purpose:  Check VPC Flow Logs against Grey Noise for malicious IPs;
-#           take action in AWS by creating Network ACL Rules from an Amazon Linux EC2
 
 import os
 import datetime
