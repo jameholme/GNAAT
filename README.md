@@ -8,8 +8,8 @@ It is a very simple tool that:
   
 ## Requirements:
 * This tool requires you to run it form a Amazon Linux EC2 instance that has the required IAM Permissions that allows it to:
-1. Download files from the S3 Bucket
-2. Create ACL entries in the VPC
+  Download files from the S3 Bucket
+  Create ACL entries in the VPC
 
 ## Assumptions:
 * This tool assumes your AWS ACL Rule 100 is the default allow-all rule that comes stock with most VPCs
