@@ -7,7 +7,7 @@ It is a very simple tool that:
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
 ## Requirements:
-* This tool requires you to run it form a Amazon Linux EC2 instance that has the required IAM Permissions that allows it to:
+* This tool requires you to run it form an EC2 instance that has the required IAM Permissions that allows it to:
   - Download files from the S3 Bucket.
   - Create ACL entries in the VPC.
 
