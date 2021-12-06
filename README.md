@@ -6,7 +6,7 @@ It is a very simple tool that:
 2. Checks the IPs against GreyNoise's IP classification tags.
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
-Is it really that useful to create ACLs in AWS?  
+*Is it really **that** useful to create ACLs in AWS?*  
 Some would say no, that it's *"optional"*, but I say **yes**, because it adds an additional layer of security at the perimeter of your AWS environment...
   
 ## Requirements:
