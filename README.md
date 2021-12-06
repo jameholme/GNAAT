@@ -7,9 +7,10 @@ It is a very simple tool that:
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
 ## Requirements:
-* This tool requires you to run it form an EC2 instance that has the required IAM Permissions that allows it to:
+* This tool requires you to run it from an EC2 instance or system that has the required AWS IAM Permissions that allows it to:
   - Download files from the S3 Bucket.
   - Create ACL entries in the VPC.
+* This means you likely need to have ran AWS Configure at some point or another.
 
 ## Assumptions:
 * This tool assumes your AWS ACL Rule 100 is the default allow-all rule that comes stock with most VPCs.
