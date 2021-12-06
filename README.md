@@ -6,6 +6,9 @@ It is a very simple tool that:
 2. Checks the IPs against GreyNoise's IP classification tags.
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
+Is it a useful tool? Is it important this gets done?  
+I have no idea, but I like to think it adds security at the perimeter of your AWS Environment!
+  
 ## Requirements:
 * This tool requires you to run it from an EC2 instance or system that has the required AWS IAM Permissions that allows it to:
   - Download files from the S3 Bucket.
