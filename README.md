@@ -26,4 +26,4 @@ If you're using this tool, yeah, but even if you aren't, you should because Grey
 * If I can't manage to start using Boto3 like a normal person, start using Subprocess instead of OS.system???
 * Maybe a setup file that takes in specific values required for this to work (VPC ID, ACL ID, S3 Bucket, GN API key, etc.)
 * Make the Python not total garbage.
-* Add an IAM Policy for people to use for their EC2 Role
+* Add an IAM Policy for people to use for their EC2 Role.
