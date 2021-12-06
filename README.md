@@ -7,7 +7,7 @@ It is a very simple tool that:
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
 Is it really that useful to create ACLs in AWS?  
-Some would say no, that it's *"optional"*.. but it adds an additional layer of security at the perimeter of your AWS Environment!
+Some would say no, that it's *"optional"*, but I say **yes**, because it adds an additional layer of security at the perimeter of your AWS environment...
   
 ## Requirements:
 * This tool requires you to run it from an EC2 instance or system that has the required AWS IAM Permissions that allows it to:
