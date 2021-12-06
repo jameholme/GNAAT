@@ -20,6 +20,7 @@ If you're using this tool, yes, but even if you aren't, you should because GreyN
 
 ## Assumptions:
 * This tool assumes your AWS ACL Rule 100 is the default allow-all rule that comes stock with most VPCs.
+* It also assumes you have some VPC Flow Logs in a S3 Bucket somewhere.
   
 ## To-do:
 * Start using Boto3 like a normal person.
@@ -27,3 +28,4 @@ If you're using this tool, yes, but even if you aren't, you should because GreyN
 * Maybe a setup file that takes in specific values required for this to work (VPC ID, ACL ID, S3 Bucket, GN API key, etc.)
 * Make the Python not total garbage.
 * Add an IAM Policy for people to use for their EC2 Role.
+* Add more logs
