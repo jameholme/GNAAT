@@ -4,7 +4,6 @@
 import os
 import datetime
 import requests
-import datetime
 
 # Modify these values with appropriate IDs
 # The ID of the Network ACL that is associated with your monitored Subnets, can be the default NACL or a custom one
