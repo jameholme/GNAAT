@@ -12,7 +12,7 @@ Some would say no, that it's *"optional"*, but I say **yes**, because it adds an
 *Do we have to use GreyNoise???*  
 If you're using this tool, yes, but even if you aren't, you should because GreyNoise is good people.
   
-*Doesn't GreyNoise already have really good integrations???*
+*Doesn't GreyNoise already have really good integrations???*  
 Yes... Please use their services and ignore this repository.
   
 ## Requirements:
