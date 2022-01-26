@@ -1,6 +1,6 @@
 # GNAAT  
 GreyNoise AWS ACL Tool (GNAAT) pronounced /ˈnæt/.  
-It has no official affiliation with GreyNoise or AWS, it just uses their stuff to do things.
+It has no official affiliation with GreyNoise or AWS, it just uses their stuff to do things.  
 GNAAT started out as a project for school and will likely stay really bad.  
 It is a *very* simple tool that:  
 1. Downloads VPC Flow Logs from a S3 Bucket.
