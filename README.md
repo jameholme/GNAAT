@@ -12,6 +12,9 @@ Some would say no, that it's *"optional"*, but I say **yes**, because it adds an
 *Do we have to use GreyNoise???*  
 If you're using this tool, yes, but even if you aren't, you should because GreyNoise is good people.
   
+*Doesn't GreyNoise already have really good integrations???*
+Yes... Please use their services and ignore this repository.
+  
 ## Requirements:
 * This tool requires you to run it from an EC2 instance or system that has the required AWS IAM Permissions that allows it to:
   - Download files from the S3 Bucket.
