@@ -1,6 +1,17 @@
 # GNAAT  
+```
+      _,---.  .-._         ,---.        ,---.   ,--.--------.  
+  _.='.'-,  \/==/ \  .-._.--.'  \     .--.'  \ /==/,  -   , -\ 
+ /==.'-     /|==|, \/ /, |==\-/\ \    \==\-/\ \\==\.-.  - ,-./ 
+/==/ -   .-' |==|-  \|  |/==/-|_\ |   /==/-|_\ |`--`\==\- \    
+|==|_   /_,-.|==| ,  | -|\==\,   - \  \==\,   - \    \==\_ \   
+|==|  , \_.' )==| -   _ |/==/ -   ,|  /==/ -   ,|    |==|- |   
+\==\-  ,    (|==|  /\ , /==/-  /\ - \/==/-  /\ - \   |==|, |   
+ /==/ _  ,  //==/, | |- \==\ _.\=\.-'\==\ _.\=\.-'   /==/ -/   
+ `--`------' `--`./  `--``--`         `--`           `--`--`   
+```
 GreyNoise AWS ACL Tool (GNAAT) pronounced /ˈnæt/.  
-It has no official affiliation with GreyNoise or AWS, it just uses their stuff to do things.  
+**It has no official affiliation with GreyNoise or AWS**, it just uses their stuff to do things.  
 GNAAT started out as a project for school and will likely stay really bad.  
   
 It is a *very* simple tool that:  
@@ -30,4 +41,3 @@ A. Yes... Please ignore this repository.
 ## To-do List:
 * Start using Boto3 like a normal person.
 * If I can't manage to start using Boto3 like a normal person, start using Subprocess instead of OS.system???
-* Maybe a setup file that takes in specific values required for this to work (VPC ID, ACL ID, S3 Bucket, GN API key, etc.)
