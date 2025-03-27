@@ -9,13 +9,13 @@ It is a *very* simple tool that:
 3. Creates AWS ACLs based on IPs tagged as Malicious.
   
 Q. *Is it really **that** useful to create ACLs in AWS???*  
-A. Some would say no, that it's *"optional"*, but I say **yes**, because it adds an additional layer of security at the perimeter of your AWS environment...  
+A. Some would say no, that it's *"optional"*, but I say **yes**, because it adds an additional layer of security at the perimeter and I was bored.
   
 Q. *Do we have to use GreyNoise???*  
-A. If you're using this tool, yes, but even if you aren't, you should because GreyNoise is good people.
+A. If you're using this tool, yes, but even if you aren't, you should because GreyNoise is cool.
   
 Q. *Doesn't GreyNoise already have really good integrations???*  
-A. Yes... Please use their services and ignore this repository.
+A. Yes... Please ignore this repository.
   
 ## Requirements:
 * This tool requires you to run it from an EC2 instance or system that has the required AWS IAM Permissions that allows it to:
